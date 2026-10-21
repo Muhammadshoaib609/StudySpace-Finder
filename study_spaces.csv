@@ -1,0 +1,6 @@
+id,name,category,latitude,longitude,noise_level,has_wifi,has_power_outlets,rating
+1,Central Library Study Hub,Public Library,33.6844,73.0479,Silent,True,True,4.8
+2,Mindful Corner Cafe,Cafe,33.6920,73.0550,Moderate,True,True,4.5
+3,TechHub Co-working Space,Co-working,33.7000,73.0600,Silent,True,True,4.7
+4,Campus Silent Zone,University Spot,33.6750,73.0350,Silent,False,True,4.2
+5,BookWorm Reading Room,Library,33.7100,73.0700,Silent,True,True,4.6
